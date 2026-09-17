@@ -6,7 +6,7 @@
     "type": "bag",
     "size": "20 นิ้ว",
     "price": 553,
-    "image": "images/Dragon.jpg",
+    "image": "images/Dragon.jpeg",
     "description": "กระเป๋าผ้าพิมพ์ลายมังกรไทย โทนสีเข้ม ให้ความรู้สึกคลาสสิกและมีเอกลักษณ์ ขนาด 20 นิ้ว เหมาะกับการใช้งานประจำวัน"
   },
   {
@@ -16,7 +16,7 @@
     "type": "bag",
     "size": "20 นิ้ว",
     "price": 553,
-    "image": "images/Vine.jpg",
+    "image": "images/Vine.jpeg",
     "description": "กระเป๋าผ้าลายไม้เรื้อยเลื้อยพันอ่อนช้อย ให้ความรู้สึกธรรมชาติและสงบ ขนาด 20 นิ้ว"
   },
   {
@@ -26,7 +26,7 @@
     "type": "bag",
     "size": "20 นิ้ว",
     "price": 553,
-    "image": "images/Colum.jpg",
+    "image": "images/Colum.jpeg",
     "description": "กระเป๋าผ้าลายตารางเรียบหรู ดีไซน์เรียบง่ายแต่มีสไตล์ ขนาด 20 นิ้ว"
   },
   {
@@ -36,7 +36,7 @@
     "type": "bag",
     "size": "20 นิ้ว",
     "price": 553,
-    "image": "images/Kmutnb.jpg",
+    "image": "images/Kmutnb.jpeg",
     "description": "กระเป๋าผ้าลายมจพ. ดีไซน์เฉพาะตัว เหมาะสำหรับสะสมหรือเป็นของฝาก ขนาด 20 นิ้ว"
   }
 ]
